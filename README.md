@@ -29,3 +29,8 @@ Fig. 8. Longitudinal acceleration fitting function of expert driver (Created by 
 ![Figure 9a](Figures/Fig.%207(a).png)
 ![Figure 9b](Figures/Fig.%207(b).png)
 Fig. 9. Behavior transition strategy results: Longitudinal Acceleration (Created by the authors)
+
+![Figure 10a](Figures/Fig.%208(a).png)
+![Figure 10b](Figures/Fig.%208(b).png)
+![Figure 10c](Figures/Fig.%208(c).png)
+Fig. 10.  Comparison of Expert Driver's Manual Driving Data with AI Agent and Rule-Based Algorithm.
