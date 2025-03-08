@@ -18,7 +18,14 @@ Fig. 4. Test vehicle experimental setup
 Fig. 5. Feature extraction results - Driver 1 (Created by the authors)
 
 ![Figure 6](Figures/Fig.%204.png)
-Fig. 5. Feature extraction results - Driver 2 (Created by the authors)
+Fig. 6. Feature extraction results - Driver 2 (Created by the authors)
 
 ![Figure 7](Figures/Fig.%205.png)
 Fig. 7. Feature extraction results - Expert driver (Created by the authors)
+
+![Figure 8](Figures/Fig.%206.png)
+Fig. 8. Longitudinal acceleration fitting function of expert driver (Created by the authors)
+
+![Figure 9a](Figures/Fig.%207(a).png)
+![Figure 9b](Figures/Fig.%207(b).png)
+Fig. 9. Behavior transition strategy results: Longitudinal Acceleration (Created by the authors)
