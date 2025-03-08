@@ -10,3 +10,15 @@ Fig. 2. To match trajectories T_1 and T_2, each point p_n^1 from T_1 is paired w
 
 ![Figure 3](Figures/Fig.%202.png)
 Fig. 3. An example driving course for data collection in FMTC
+
+![Figure 4](Figures/Fig.%2044.png)
+Fig. 4. Test vehicle experimental setup
+
+![Figure 5](Figures/Fig.%203.png)
+Fig. 5. Feature extraction results - Driver 1 (Created by the authors)
+
+![Figure 6](Figures/Fig.%204.png)
+Fig. 5. Feature extraction results - Driver 2 (Created by the authors)
+
+![Figure 7](Figures/Fig.%205.png)
+Fig. 7. Feature extraction results - Expert driver (Created by the authors)
