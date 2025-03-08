@@ -8,5 +8,5 @@ Fig. 1. Architecture of LSTM AutoEncoder
 ![Figure 2](Figures/Fig.%2022.png)
 Fig. 2. To match trajectories T_1 and T_2, each point p_n^1 from T_1 is paired with the nearest point p_n^2 in T_2 based on Euclidean distance.
 
-![Figure 3](Figures/fig.%202.png)
+![Figure 3](Figures/Fig.%202.png)
 Fig. 3. An example driving course for data collection in FMTC
