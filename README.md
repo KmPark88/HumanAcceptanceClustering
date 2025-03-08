@@ -34,3 +34,8 @@ Fig. 9. Behavior transition strategy results: Longitudinal Acceleration (Created
 ![Figure 10b](Figures/Fig.%208(b).png)
 ![Figure 10c](Figures/Fig.%208(c).png)
 Fig. 10.  Comparison of Expert Driver's Manual Driving Data with AI Agent and Rule-Based Algorithm.
+
+![Figure 11a](Figures/Fig.%209(a).png)
+![Figure 11b](Figures/Fig.%209(b).png)
+![Figure 11c](Figures/Fig.%209(c).png)
+Fig. 11. Longitudinal acceleration control command and input.
